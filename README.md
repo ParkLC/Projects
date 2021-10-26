@@ -1,5 +1,5 @@
 # Projects
-Parker Carlson, 
+Parker Carlson,\n
 WWU 2021 Graduate 
 Bachelor of Science in Computer Science
 
