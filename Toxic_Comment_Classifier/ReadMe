@@ -1,1 +1,4 @@
-The purpose of this project was to use a binary classification algorithm, trained upon a database of comments, to classify the toxicity of comments that were fed to it. This project was developed by me and my team mate Hunter Bettin. I have included our final report on the project that goes into further detail.
+The purpose of this project was to use a binary classification algorithm, trained upon a database of comments, to classify the toxicity of comments that were fed to it. 
+This project was developed by me and my team mate Hunter Bettin. I have included our final report on the project that goes into further detail.
+
+NOTE: The training data is not included with this project, it includes thousands upon thousands of comments and is way too large to be put on here.
