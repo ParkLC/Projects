@@ -1,0 +1,40 @@
+Evil Wears a Hat,4,3,Defrocked Priest,2,Marshal Canfield,3,One Eyed Man,4,images/cards/01.png
+Square Deal City,6,3,Squeaking Boy,2,Pharaoh Imhotep,4,Aunt Martha,6,images/cards/06.png
+Law and the Old West,3,3,Rug Merchant,1,Bank,2,Talking Mule,5,images/cards/02.png
+Davy Crockett: A Drunkard's tale,4,2,The Duck,4,His Brother,6,images/cards/07.png
+The Life and Times of John Skywater,5,2,Auctioneer,5,General Custer,6,images/cards/03.png
+The Way the West Was Run,4,3,Town Drunk,2,Squinting Miner,4,Poltergeist,5,images/cards/08.png
+My Years on the Prairie,5,3,Drunk,3,Librarian,4,Man with Hay,6,images/cards/04.png
+Down in the Valley,3,3,Angry Barber,1,Woman with Board,3,Man on Fire,5,images/cards/09.png
+Buffalo Bill: The Lost Years,4,3,Hollering Boy,2,Drunk Farmer,3,Meek Little Sarah,5,images/cards/05.png
+Ol' Shooter and Little Doll,4,3,Sleeping Man,1,Man with Pig,2,Shooter,4,images/cards/10.png
+The Robbers of Trains,4,3,Buster,1,Man Reading Paper,4,Fat Pete,5,images/cards/11.png
+Jesse James: Man of Action,5,3,Shot in Back,2,Shot in Leg,4,Leaps into Cake,5,images/cards/16.png
+Beyond the Pail:Life without Lactose,2,1,Martin,6,images/cards/12.png
+Disaster at Flying J,5,3,Piano Player,2,Man in Turban,3,Falls on Hoe,4,images/cards/17.png
+A Man Called Cow,3,2,Preacher,3,Amused Witness,6,images/cards/13.png
+Shakespeare in Lubbock,3,3,Falls From Tree,1,Laughing Woman,3,Man with Whistle,4,images/cards/18.png
+Taffy Commercial,2,2,Curious Girl,3,Ghost of Plato,4,images/cards/14.png
+Go West You!,3,2,Ex Convict,4,Man with Onion,6,images/cards/19.png
+Gun Commercial,2,2,Surprised Bison,2,Man with Horn,4,images/cards/15.png
+The Life and Times of John Skywater,5,3,Staggering Man,3,Woman with Beer,5,Marcie,6,images/cards/20.png
+Gun! The Musical,6,3,Looks like Elvis,4,Singing Dead Man,5,Apothecary,6,images/cards/21.png
+One False Step for Mankind,6,3,Flustered Man,1,Space Monkey,2,Cowbot Dan,5,images/cards/26.png
+Humor at the Expense of Others,5,3,Jailer,2,Mephistopheles,4,Breaks a Window,5,images/cards/22.png
+Thirteen the Hard Way,5,3,Man in Poncho,1,Ecstatic Housewife,3,Isaac,5,images/cards/27.png
+The Search for Maggie White,6,2,Film Critic,5,Hobo with Bat,6,images/cards/23.png
+How They Get Milk,4,3,Cow,2,St. Clement of Alexandria,3,Josie,4,images/cards/28.png
+Picante Sauce Commercial,2,2,Bewhisker'd Cowpoke,3,Dog,5,images/cards/24.png
+My Years on the Prairie,5,3,Willard,2,Leprechaun,3,Startled Ox,5,images/cards/29.png
+Jesse James: Man of Action,5,3,Shot in Head,1,Leaps Out of Cake,4,Shot Three Times,6,images/cards/25.png
+Davy Crockett: A Drunkard's Tale,4,3,Voice of God,2,Hands of God,3,Jack Kemp,4,images/cards/30.png
+Czechs in the Sonora,4,2,Monkey,5,Man with Gun,6,images/cards/31.png
+J. Robert Lucky: Man of Substance,4,3,Man with Rope,1,Svetlana,2,Accidental Victim,5,images/cards/36.png
+Swing'em Wide,6,3,Thrifty Mike,1,Sober Physician,3,Man on Floor,5,images/cards/32.png
+Thirteen the Hard Way,5,3,Very Wet Man,2,Dejected Housewife,4,Man with Box,5,images/cards/37.png
+Swing'em Wide,6,3,Liberated Nun,3,Witch Doctor,5,Voice of Reason,6,images/cards/33.png
+How They Get Milk,4,3,Marksman,4,Postal Woker,5,A Horse,6,images/cards/38.png
+Trials of the Frist Pioneers,4,3,Burning Man,2,Cheese Vendor,4,Hit with Table,5,images/cards/34.png
+Breakin' in Trick Ponies,3,2,Fraternity Pledge,2,Man with Sword,6,images/cards/39.png
+How the Grinch Stole Texas,5,3,Detective,3,File Clerk,4,Cindy Lou,5,images/cards/35.png
+Custer's Other Stands,5,3,Farmer,2,Exploding Horse,4,Jack,6,images/cards/40.png
