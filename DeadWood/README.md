@@ -1,3 +1,5 @@
+The purpose of this project was to make a board game with the Java Swing package. The entire code based was created by me and my team mate JohnHenry Ward.
+
 # Deadwood
 
 **For the GUI based Version**
