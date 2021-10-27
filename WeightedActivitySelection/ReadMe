@@ -1,0 +1,9 @@
+The purpose of this project was to provide a solution to the Weighted Activity Selection Problem. The question being this:
+
+Imagine that you have 
+an all-day pass to an amusement park and that you want to maximize the amount of time spent on 
+rides (rather than maximizing the total number of rides you 
+can get). Rides cannot be interrupted and one cannot be on two rides at 
+the same time. 
+
+The solution I devised used dynamic programming, finding us an optimal path through all of the different activities given.
